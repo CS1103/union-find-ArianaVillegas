@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ariana/UTEC/POO 2/CLASES/Clase_9/union-find-ArianaVillegas/Implementacion/Union_find.cpp
+iostream
+-
+Union_find.h
+/home/ariana/UTEC/POO 2/CLASES/Clase_9/union-find-ArianaVillegas/Implementacion/Union_find.h
+
+/home/ariana/UTEC/POO 2/CLASES/Clase_9/union-find-ArianaVillegas/Implementacion/Union_find.h
+vector
+-
+
+/home/ariana/UTEC/POO 2/CLASES/Clase_9/union-find-ArianaVillegas/Implementacion/main.cpp
+iostream
+-
+bits/stdc++.h
+-
+Union_find.h
+/home/ariana/UTEC/POO 2/CLASES/Clase_9/union-find-ArianaVillegas/Implementacion/Union_find.h
+
